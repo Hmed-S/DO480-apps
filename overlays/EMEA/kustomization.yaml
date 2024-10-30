@@ -3,7 +3,4 @@ kind: Kustomization
 bases:
   - ../../base
 
-resources:
-- route.yaml
-
 nameSuffix: -emea
